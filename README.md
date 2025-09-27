@@ -14,7 +14,9 @@
     - Melhora na agilidade e coordenação motora
     - Memorização
 - Galeria de fotos dos ensaios
-# Professor 
+## Professor 
 - Texto sobre o professor
-# Agendar aula
-- Formulário 
+## Agendar aula
+- Formulário
+## Palheta de Cores
+- Laranja, preto e branco
