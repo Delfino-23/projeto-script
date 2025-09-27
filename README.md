@@ -20,3 +20,9 @@
 - Formulário
 ## Palheta de Cores
 - Laranja, preto e branco
+## Footer
+- Logo
+- Horário de funcionamento
+- Níveis de aula
+- Acompanhe nossas redes
+- Endereço + contato
